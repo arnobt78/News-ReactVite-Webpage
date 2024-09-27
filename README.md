@@ -1,7 +1,9 @@
 
+![Screenshot 2024-09-27 at 17 06 29](https://github.com/user-attachments/assets/41ea5799-d1cc-44b6-bca5-d28787b8f022)
+
 ## News-ReactVite-Webpage
 
-News App is a React-Vite Random Current World Related Live News project, using GNews API, Axios for the http client request, display the News in different Category in Navbar, display the details in a popup page, read more as source link and deploy on Vercel.
+News App is a React-Vite Random Current World Related Live News project, using GNews API, Axios for the HTTP Client Request, display the News in different Category in Navbar, display the details in a Popup page, Read more as Source Link and deploy on Vercel.
 
 **Note: To check this web app live, click here:** https://news-arnob.vercel.app/
 
